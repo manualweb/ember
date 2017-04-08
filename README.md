@@ -1,5 +1,6 @@
 # manual-ember
 
+Ejemplos de Código para el Tutorial Ember de [Manual Web](http://www.manualweb.net)
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
